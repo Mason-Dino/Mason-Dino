@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Random websties/apps to make my life easier<br>🌱 I’m currently learning: JavaScirpt<br>✨I'm currently getting better at: How to use flask
+🔭 I’m currently working on: Random Projects<br>🌱 I’m currently learning: JavaScirpt<br>✨I'm currently getting better at: Software Development in Python
 
 
 # 💻 Tech Stack:
