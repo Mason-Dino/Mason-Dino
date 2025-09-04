@@ -2,15 +2,16 @@
 🔭 I’m currently working on: Random Projects<br>🌱 I’m currently learning: JavaScirpt<br>✨I'm currently getting better at: Software Development in Python
 
 # 🌐 Website:
-My portfolio/Website is at [https://mason-dino.github.io/](https://mason-dino.github.io/)
+My portfolio/website is at [dinodev.xyz](https://dinodev.xyz/)
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=Electron&logoColor=ffffff) ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=000000) ![Swift](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=Swift&logoColor=ffffff) 
 
 # 🔨 Current Project:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mason-Dino&repo=ProjectByte&theme=dark)](https://github.com/Mason-Dino/ProjectByte)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mason-Dino&repo=Dino-Dev&theme=dark)](https://github.com/Mason-Dino/Dino-Dev)
 
 # 🚧 Last Project:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mason-Dino&repo=ProjectByte&theme=dark)](https://github.com/Mason-Dino/ProjectByte)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mason-Dino&repo=README-maker&theme=dark)](https://github.com/Mason-Dino/README-maker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mason-Dino&repo=MySphere&theme=dark)](https://github.com/Mason-Dino/MySphere)<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mason-Dino&repo=StudySync&theme=dark)](https://github.com/Mason-Dino/StudySync)
 
